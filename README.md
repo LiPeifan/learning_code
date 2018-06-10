@@ -1,2 +1,3 @@
-# my-c-code
-the c code i write during my study
+# my code
+> 学习过程中写的代码
+
